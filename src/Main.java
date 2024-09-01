@@ -48,8 +48,10 @@ public class Main {
 
 
 
+        /*
 
-        // Questão 3
+        // Questão 3  Optei por criar na main tendo em vista que na minha visão,
+        // a questão não precisaria criar o código e sim apenas informar o valor
         int INDICE = 12;
         int SOMA = 0;
         int K = 1;
@@ -60,6 +62,11 @@ public class Main {
         }
 
         System.out.println(SOMA);
+
+        // O valor da soma é 77.
+
+         */
+
 
     }
 }
