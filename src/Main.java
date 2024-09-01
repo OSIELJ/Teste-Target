@@ -88,5 +88,18 @@ public class Main {
 
          */
 
+
+        /*Questão 5
+
+
+        Primeiro, ligo o primeiro interruptor e o deixo ligado por um tempo.
+        Depois, desligo o primeiro interruptor e ligo o segundo, deixando o terceiro desligado.
+        Em seguida, volto e verifico:
+
+        A lâmpada que está acesa é controlada pelo segundo interruptor.
+        A lâmpada que está desligada, mas quente, é controlada pelo primeiro interruptor.
+        A lâmpada que está desligada e fria é controlada pelo terceiro interruptor
+
+         */
     }
 }
