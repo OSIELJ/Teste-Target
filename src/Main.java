@@ -54,6 +54,8 @@ public class Main {
         // Optei por criar na main tendo em vista que na minha visão,
         // a questão não precisaria criar o código e sim apenas informar o valor
 
+        // As variaveis não estão em inglês para ficar o mesmo código que pede na questão.
+
         int INDICE = 12;
         int SOMA = 0;
         int K = 1;
